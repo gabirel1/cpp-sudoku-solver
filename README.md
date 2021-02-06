@@ -6,7 +6,7 @@ Simple Sudoku Solver made in CPP
     git clone https://github.com/gabirel1/cpp-sudoku-solver.git
     cd cpp-sudoku-solver/
     make
-    ./soduku_solver file
+    ./soduku_solver your_file
 
 #### Example
 ![solver example](./sudoku-solver.png)
